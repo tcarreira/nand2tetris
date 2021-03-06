@@ -5,9 +5,9 @@ Building a Modern Computer From First Principles
 This repository contains all the tools and files necessary for completing all the projects described in [nand2tetris.org](https://www.nand2tetris.org).
 Once you download the software suite to your PC, there is no need to download anything else throughout your Nand to Tetris learning experience.
 
-The `main` branch contains the downloaded software from the official website without solutions.
+The [main](../../tree/main) branch contains the downloaded software from the official website without solutions.
 
-Some possible implementations can be found in the branch [solutions](./tree/solutions) (wip).
+Some possible implementations can be found in the branch [solutions](../../tree/solutions) (wip).
 
 ## How to test your implementation with docker
 
