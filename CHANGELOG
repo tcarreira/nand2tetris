@@ -1,0 +1,10 @@
+# Changelog
+
+## v2.6.1
+
+- include a `TwoComp16` part, as checkpoint for negative numbers
+
+## v2.6
+
+- Include all original files from https://nand2tetris.org (Software)
+- Include a `demo` project for testing with autograder

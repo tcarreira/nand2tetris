@@ -2,8 +2,29 @@
 
 Building a Modern Computer From First Principles
 
-**note:** the `main` branch contains the downloaded software from the official website as is, with no solutions. Other branches may contain solutions.
+This repository contains all the tools and files necessary for completing all the projects described in [nand2tetris.org](https://www.nand2tetris.org).
+Once you download the software suite to your PC, there is no need to download anything else throughout your Nand to Tetris learning experience.
 
+The [main](../../tree/main) branch contains the downloaded software from the official website without solutions.
+
+Some possible implementations can be found in the branch [solutions](../../tree/solutions) (wip).
+
+## How to test your implementation with docker
+
+You may test implementations (.hdl files) using the docker image (tested in linux only)
+
+Test all `.hdl` files inside project `1`:
+```
+make 01.test
+``` 
+
+Test `Sum16.hdl` file inside project `2`:
+```
+make 02.part P=Sum16
+``` 
+
+
+---
 
 ## Software
 
