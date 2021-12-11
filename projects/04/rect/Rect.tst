@@ -1,4 +1,4 @@
-// This file is inspired on the word done in www.nand2tetris.org
+// This file is inspired on the work done in www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Fábio Dias, IST.
 // File name: projects/04/rect/Rect.tst
