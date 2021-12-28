@@ -1,7 +1,10 @@
-// This file is part of www.nand2tetris.org
+// This file is inspired by www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
-// File name: projects/05/CPU.tst
+// Authors: José Pedro, Martim Rosado and Ricarte Ribeiro
+// For the Arquitetura de Computadores II course on
+// Afterschool
+// File name: projects/05/CPU-En.tst
 
 load CPU-En.hdl,
 output-file CPU-En.out,
