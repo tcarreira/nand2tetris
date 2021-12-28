@@ -1,7 +1,10 @@
 // This file is inspired by www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
-// File name: projects/05/CPU.hdl
+// Authors: José Pedro, Martim Rosado and Ricarte Ribeiro
+// For the Arquitetura de Computadores II course on
+// Afterschool
+// File name: projects/05/CPU-En.hdl
 
 /**
  * The Hack CPU (Central Processing unit), consisting of an ALU,
