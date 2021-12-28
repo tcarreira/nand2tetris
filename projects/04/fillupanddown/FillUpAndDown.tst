@@ -15,6 +15,12 @@ repeat 1000000 {
 }
 output;
 
+set RAM[24576] 0,		// the keyboard in untouched
+repeat 1000000 {
+  ticktock;
+}
+output;
+
 set RAM[24576] 133,		// the down key is pressed
 repeat 1000000 {
   ticktock;
