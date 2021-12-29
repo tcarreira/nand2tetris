@@ -31,7 +31,7 @@
  * than to the address resulting from executing the current instruction. 
  */
 
-CHIP CPU-En {
+CHIP CPUEn {
 
     IN  inM[16],         // M value input  (M = contents of RAM[A])
         instruction[16], // Instruction for execution
