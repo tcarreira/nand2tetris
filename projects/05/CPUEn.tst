@@ -4,11 +4,11 @@
 // Authors: José Pedro, Martim Rosado and Ricarte Ribeiro
 // For the Arquitetura de Computadores II course on
 // Afterschool
-// File name: projects/05/CPU-En.tst
+// File name: projects/05/CPUEn.tst
 
-load CPU-En.hdl,
-output-file CPU-En.out,
-compare-to CPU-En.cmp,
+load CPUEn.hdl,
+output-file CPUEn.out,
+compare-to CPUEn.cmp,
 output-list time%S0.4.0 inM%D0.6.0 instruction%B0.16.0 reset%B2.1.2 enable%B2.1.2 outM%D1.6.0 writeM%B3.1.3 addressM%D0.5.0 pc%D0.5.0 DRegister[]%D1.6.1;
 
 
