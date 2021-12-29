@@ -4,7 +4,7 @@
 // Authors: José Pedro, Martim Rosado and Ricarte Ribeiro
 // For the Arquitetura de Computadores II course on
 // Afterschool
-// File name: projects/05/CPU-En.hdl
+// File name: projects/05/CPUEn.hdl
 
 /**
  * The Hack CPU (Central Processing unit), consisting of an ALU,
