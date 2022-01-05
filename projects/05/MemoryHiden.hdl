@@ -30,7 +30,7 @@
  * always 0.
  */
 
-CHIP MemoryEn {
+CHIP MemoryHiden {
     IN in[16], hide, load, address[15];
     OUT out[16];
 
