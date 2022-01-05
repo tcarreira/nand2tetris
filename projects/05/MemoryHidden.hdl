@@ -4,7 +4,7 @@
 // Authors: Fábio Dias
 // For the Arquitetura de Computadores II course on
 // Afterschool
-// File name: projects/05/MemoryHiden.hdl
+// File name: projects/05/MemoryHidden.hdl
 
 /**
  * The complete address space of the Hack computer's memory,
@@ -30,7 +30,7 @@
  * always 0.
  */
 
-CHIP MemoryHiden {
+CHIP MemoryHidden {
     IN in[16], hide, load, address[15];
     OUT out[16];
 

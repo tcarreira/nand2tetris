@@ -4,11 +4,11 @@
 // Authors: Fábio Dias
 // For the Arquitetura de Computadores II course on
 // Afterschool
-// File name: projects/05/MemoryHiden.tst
+// File name: projects/05/MemoryHidden.tst
 
-load MemoryHiden.hdl,
-output-file MemoryHiden.out,
-compare-to MemoryHiden.cmp,
+load MemoryHidden.hdl,
+output-file MemoryHidden.out,
+compare-to MemoryHidden.cmp,
 output-list in%D1.6.1 hide%B2.1.2 load%B2.1.2 address%B1.15.1 out%D1.6.1;
 
 // Testing with the memory working normally 
