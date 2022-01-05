@@ -4,7 +4,7 @@
 // Authors: Fábio Dias
 // For the Arquitetura de Computadores II course on
 // Afterschool
-// File name: projects/05/MemoryHiden.tst
+// File name: projects/05/MemoryHiden.hdl
 
 /**
  * The complete address space of the Hack computer's memory,
