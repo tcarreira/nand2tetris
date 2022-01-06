@@ -1,11 +1,11 @@
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
-// File name: projects/05/ComputerRect.tst
+// File name: projects/05/Computer-Rect.tst
 
 load Computer.hdl,
-output-file ComputerRect.out,
-compare-to ComputerRect.cmp,
+output-file Computer-Rect.out,
+compare-to Computer-Rect.cmp,
 output-list time%S1.4.1 ARegister[]%D1.7.1 DRegister[]%D1.7.1 PC[]%D0.4.0 RAM16K[0]%D1.7.1 RAM16K[1]%D1.7.1 RAM16K[2]%D1.7.1;
 
 // Load a program written in the Hack machine language.
